@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Site-07-17_2238",
-    "currentPage": "vorlagen.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise-amp",
       "title": "Mobirise AMP",
@@ -43,7 +43,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 44,
+    "uniqCompNum": 45,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": false,
@@ -201,7 +201,7 @@
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section content9\" plugins=\"amp-main\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Stilisierte Nummern\" name=\"stylizedCounters\" checked>\n        \n        <input type=\"color\" title=\"Nummernfarbe\" name=\"counterColor\" value=\"#4ea2e3\" condition=\"stylizedCounters\">\n        <input type=\"range\" title=\"Nummern Transparenz\" inline name=\"counterOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"stylizedCounters\">\n        \n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-text counter-container mbr-fonts-style mbr-col-lg-8 mbr-col-md-12 mbr-col-sm-12\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li class=\"mbr-pb-2\">Tragt montags ein T-Shirt, eine Mund-Nasen-Maske oder ein anderes Accessoire mit einem der folgenden Slogans: <b>\"Kinder sind #systemrelevant\"</b> oder <b>\"Eltern sind #systemrelevant\"</b>.<br>Bestellen könnt Ihr entweder beim <a href=\"https://shop.spreadshirt.de/wir-sind-systemrelevant/\" target=\"_blank\">Spreadshirt-Shop</a> oder bei einem anderem Shop eurer Wahl (<a href=\"page2.html\">Vorlagen herunterladen</a>).&nbsp;</li>\n                    <li class=\"mbr-pb-2\">Postet Bilder bei Facebook, Instagram, Twitter mit dem HashTag <b>#systemrelevant</b></li>\n                    <li class=\"mbr-pb-2\">Erzählt von der Aktion weiter.</li><li class=\"mbr-pb-2\"><b>Optional:</b> Schickt eine Postkarte an einen Politiker euer Wahl. Schreibt <b>„Wir sind systemrelevant. Lasst uns miteinander reden.“<br></b></li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content9\" plugins=\"amp-main\">\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Oben\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"range\" inline title=\"Unten\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"checkbox\" title=\"Stilisierte Nummern\" name=\"stylizedCounters\" checked>\n        \n        <input type=\"color\" title=\"Nummernfarbe\" name=\"counterColor\" value=\"#4ea2e3\" condition=\"stylizedCounters\">\n        <input type=\"range\" title=\"Nummern Transparenz\" inline name=\"counterOpacity\" min=\"0\" max=\"1\" step=\"0.1\" value=\"0.5\" condition=\"stylizedCounters\">\n        \n        <input type=\"color\" title=\"Hintergrundfarbe\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"mbr-row mbr-jc-c\">\n            <div class=\"mbr-text counter-container mbr-fonts-style mbr-col-lg-8 mbr-col-md-12 mbr-col-sm-12\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>\n                <ol>\n                    <li class=\"mbr-pb-2\">Tragt montags ein T-Shirt, eine Mund-Nasen-Maske oder ein anderes Accessoire mit einem der folgenden Slogans: <b>\"Kinder sind #systemrelevant\"</b> oder <b>\"Eltern sind #systemrelevant\"</b>.<br>Bestellen könnt Ihr entweder beim <a href=\"https://shop.spreadshirt.de/wir-sind-systemrelevant/\" target=\"_blank\">Spreadshirt-Shop</a> oder bei einem anderem Shop eurer Wahl (<a href=\"vorlagen.html\" target=\"_blank\">Vorlagen herunterladen</a>).&nbsp;</li>\n                    <li class=\"mbr-pb-2\">Postet Bilder bei Facebook, Instagram, Twitter mit dem HashTag <b>#systemrelevant</b></li>\n                    <li class=\"mbr-pb-2\">Erzählt von der Aktion weiter.</li><li class=\"mbr-pb-2\"><b>Optional:</b> Schickt eine Postkarte an einen Politiker euer Wahl. Schreibt <b>„Wir sind systemrelevant. Lasst uns miteinander reden.“<br></b></li>\n                </ol>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s6V954qfOd",
           "_protectedParams": [],
           "_global": false,
